@@ -1,0 +1,13 @@
+---
+title: "Apply"
+author: "Shravan Kuchkula"
+date: "3/7/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Question 1:
+
